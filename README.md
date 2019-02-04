@@ -6,7 +6,7 @@ Ansible role for starting web-applications
 Requirements
 ------------
 
-This role use image from private Dicker Hub repository
+This role use image from private Docker Hub repository
 
 Role Variables
 --------------

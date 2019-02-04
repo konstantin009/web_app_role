@@ -2,7 +2,7 @@
 
 - name: Import role to install Docker
   import_role:
-    name: docker-role
+    name: docker_role
 
 - name: Log into DockerHub
   docker_login:

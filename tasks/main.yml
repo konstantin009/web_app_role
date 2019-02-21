@@ -5,8 +5,8 @@
 
 - name: Log into DockerHub
   docker_login:
-    username: konstantin009
-    password: kostet777
+    username: ***
+    password: ***
 
 - name: Pull an image with web-app
   docker_image:
